@@ -1,0 +1,4 @@
+node_modules/
+logo.svg
+.DS_Store
+.env
