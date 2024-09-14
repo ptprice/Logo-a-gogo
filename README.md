@@ -1,5 +1,7 @@
 
 # Logo-a-Gogo ![License](https://img.shields.io/badge/License-MIT-blue.svg) 
+VIDEO DEMONSTRATION: https://drive.google.com/file/d/1YduDb0uX_hmLKnRKJKFfS2Ir__dQbSRi/view
+
 ## Description
 This application allows the user to create a 3 letter logo that is either a circle, square or triangle. Colors for the text and shape are selctable by the user
 ## Table of Contents
